@@ -2,7 +2,7 @@
 
 Сервис подбирает игры для компании по количеству участников, времени, настроению и доступному реквизиту.
 
-**[Открыть сайт](https://play-together-semen-261126.potapovsema10abeba.chatgpt.site/)**
+**[Открыть сайт на GitHub Pages](https://abeba100.github.io/sobralis/)**
 
 ## Возможности
 
