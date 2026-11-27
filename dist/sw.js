@@ -1,5 +1,5 @@
 // Bump VERSION whenever any cached application file changes.
-const VERSION = 'v1';
+const VERSION = 'v2';
 const PREFIX = `sobralis:${self.registration.scope}:`;
 const CACHE = PREFIX + VERSION;
 const CORE = ['./', './index.html', './style.css', './app.js', './games.js', './pwa.js', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/apple-touch-icon.png'];
