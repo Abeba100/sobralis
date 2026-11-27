@@ -1,1 +1,1 @@
-{"name":"sobralis","private":true,"type":"module","scripts":{"start":"node server.mjs","test":"node --test checks.mjs"}}
+{"name":"sobralis","private":true,"type":"module","scripts":{"start":"node server.mjs","test":"node --test checks.mjs pwa-checks.mjs"}}
